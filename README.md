@@ -1,4 +1,4 @@
 # CodSoft
-This is my Frist Task 
+This is my First Task 
 Task Name- Number Game
 Author- Asawari 
